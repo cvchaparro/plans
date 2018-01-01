@@ -1,0 +1,12 @@
+* Tasks
+** TODO [0%] Watch two videos from week 2 of the consulting program
+   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   - [ ] video: The dark force holding your heels
+   - [ ] video: Face off with the devil
+** TODO [0%] Complete the assignments from the week 2 videos that were watched
+   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   - [ ] assignment: Pattern of existence worksheet
+** TODO [0%] Devote two hours of dedicated family time
+   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   - [ ] hour: Learning time with the kid
+   - [ ] hour: Couple time with the wife
