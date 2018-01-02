@@ -1,12 +1,49 @@
-* Tasks
-** TODO [0%] Watch two videos from week 2 of the consulting program
-   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
-   - [ ] video: The dark force holding your heels
-   - [ ] video: Face off with the devil
-** TODO [0%] Complete the assignments from the week 2 videos that were watched
-   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
-   - [ ] assignment: Pattern of existence worksheet
-** TODO [0%] Devote two hours of dedicated family time
-   SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
-   - [ ] hour: Learning time with the kid
-   - [ ] hour: Couple time with the wife
+* DONE Tasks
+  CLOSED: [2018-01-01 Mon 20:30]
+** DONE [100%] Watch two videos from week 2 of the consulting program
+   CLOSED: [2018-01-01 Mon 20:17] SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-01 Mon 19:27]--[2018-01-01 Mon 20:11] =>  0:44
+   CLOCK: [2018-01-01 Mon 18:18]--[2018-01-01 Mon 18:38] =>  0:20
+   CLOCK: [2018-01-01 Mon 14:22]--[2018-01-01 Mon 15:42] =>  1:20
+   :END:
+   - [X] video: The dark force holding your heels
+   - [X] video: Face off with the devil
+** DONE [100%] Complete the assignments from the week 2 videos that were watched
+   CLOSED: [2018-01-01 Mon 20:30] SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-01 Mon 20:23]--[2018-01-01 Mon 20:30] =>  0:07
+   :END:
+   - [X] assignment: Pattern of existence worksheet
+** DONE [100%] Devote two hours of dedicated family time
+   CLOSED: [2018-01-01 Mon 19:28] SCHEDULED: <2017-12-31 Sun> DEADLINE: <2018-01-01 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-01 Mon 18:54]--[2018-01-01 Mon 19:28] =>  0:34
+   CLOCK: [2018-01-01 Mon 16:12]--[2018-01-01 Mon 17:46] =>  1:34
+   CLOCK: [2018-01-01 Mon 09:32]--[2018-01-01 Mon 11:45] =>  2:13
+   :END:
+   - [X] hour: Learning time with the kid
+   - [X] hour: Couple time with the wife
+* DONE Extras [100%]
+  CLOSED: [2018-01-01 Mon 21:11]
+ - [X] Wake up at 4:30 am
+ - [X] Morning workout (1:10 hours)
+ - [X] 1 US Gallon of water (6 * 28 oz)
+ - [X] Night workout / stretch (0:13 hours)
+ - [X] Plan for tomorrow
+ - [X] Journal
+ - [X] Set out clothes for tomorrow
+* Journal
+** What went well?
+   - Completed all daily goals and other tasks
+   - Spent quality time with my family
+   - Helped the kid learn something new / face a challenge
+** What didn't go well?
+   - Lost patience with the kid
+   - Didn't eat very well
+   - Took too long to finish working
+** What can I improve for tomorrow?
+   - Set a meal plan for the week
+   - Start work earlier
+** Notes, Thoughts, etc
+   - "We are not the highest version of ourselves we can imagine; we are the lowest version of ourselves we can accept." -- Sam O.
