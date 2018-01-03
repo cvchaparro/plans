@@ -1,0 +1,28 @@
+* Tasks
+** TODO [0%] Watch one video from week 2 of the consulting program before leaving for work
+   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   - [ ] video: Seeing for the first time
+** TODO [0%] Refine my niche
+   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   - [ ] [0/5] List 5 niches involving FLOSS, LISP (or similar) software development, etc
+     - [ ] niche:
+     - [ ] niche:
+     - [ ] niche:
+     - [ ] niche:
+     - [ ] niche:
+** TODO [0%] Determine MVP for the English teacher project
+   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   - [ ] MVP:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Morning workout (0:41 hours)
+  - [ ] 1 US Gallon of water (6 * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Set out clothes for tomorrow
+* Journal
+** What went well?
+** What didn't go well?
+** What can I improve for tomorrow?
+** Notes, Thoughts, etc
