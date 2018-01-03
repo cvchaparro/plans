@@ -15,8 +15,8 @@
    - [ ] MVP:
 * TODO Extras [0%]
   - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (0:41 hours)
-  - [ ] 1 US Gallon of water (6 * 28 oz)
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
   - [ ] Night workout / stretch (X:XX hours)
   - [ ] Plan for tomorrow
   - [ ] Journal
