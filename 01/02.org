@@ -1,26 +1,47 @@
-* TODO Tasks
-** TODO [0%] Watch one video from week 2 of the consulting program and do the assignment before leaving for work
-   SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
-   - [ ] video: Duality and the conflict of man
-   - [ ] assignment: Binary poles worksheet
-** TODO [0%] Coordinate a new meal plan for the week with the wife
-   SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
-   - [ ] Determine meals for the week
-   - [ ] Determine a grocery list (for the month)
-   - [ ] Get the groceries
-** TODO [0%] Set jam session / break time schedule for work
-   SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
-   - [ ] Set schedule
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-02 Tue 20:24]
+** DONE [100%] Watch one video from week 2 of the consulting program and do the assignment before leaving for work
+   CLOSED: [2018-01-02 Tue 20:23] SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-02 Tue 19:59]--[2018-01-02 Tue 20:23] =>  0:24
+   CLOCK: [2018-01-02 Tue 19:19]--[2018-01-02 Tue 19:56] =>  0:37
+   CLOCK: [2018-01-02 Tue 19:02]--[2018-01-02 Tue 19:13] =>  0:11
+   CLOCK: [2018-01-02 Tue 05:54]--[2018-01-02 Tue 07:40] =>  1:46
+   :END:
+   - [X] video: Duality and the conflict of man
+   - [X] assignment: Binary poles worksheet
+   - [X] assignment: MBTI
+   - [X] assignment: Do something I wouldn't usually do
+** DONE [66%] Coordinate a new meal plan for the week with the wife
+   CLOSED: [2018-01-02 Tue 19:02] SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
+   - [X] Determine meals for the week
+     => Follow paleo food matrix
+   - [X] Determine a grocery list (for the month)
+     => Follow paleo food matrix
+   - [-] Get the groceries
+     => Delegating to the wife when she has the car (i.e. tomorrow)
+** DONE [100%] Set jam session / break time schedule for work
+   CLOSED: [2018-01-02 Tue 18:00] SCHEDULED: <2018-01-01 Mon> DEADLINE: <2018-01-02 Tue>
+   - [X] Set schedule
+* DONE Extras [100%]
+  CLOSED: [2018-01-02 Tue 21:05]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (0:41 hours)
+  - [X] 1 US Gallon of water (6 * 28 oz)
+  - [X] Night workout / stretch (0:15 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Completed all daily goals and other tasks (other than the delegation task)
+   - Delegated a task appropriately
 ** What didn't go well?
+   - Didn't complete the video and assignment before leaving for work
+   - Took too long to delegate getting the groceries
 ** What can I improve for tomorrow?
+   - Determine delegation items (if any) before leaving for work
+   - Move more precisely in the morning (i.e. once workout is done move to the next thing immediately, and so on)
 ** Notes, Thoughts, etc
+   - "Discipline is the root of all good qualities." -- Jocko W.
+   - "Discipline can seem like it's your worst enemy but the reality is discipline is your best friend. It will take care of you like nothing else can; and it will put you on that path - the path to strength, and health, and intelligence, and happiness. And most importantly it will put you on that path to freedom." -- Jocko W.
