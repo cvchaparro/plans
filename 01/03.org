@@ -1,28 +1,55 @@
 * Tasks
-** TODO [0%] Watch one video from week 2 of the consulting program before leaving for work
-   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
-   - [ ] video: Seeing for the first time
-** TODO [0%] Refine my niche
-   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
-   - [ ] [0/5] List 5 niches involving FLOSS, LISP (or similar) software development, etc
-     - [ ] niche:
-     - [ ] niche:
-     - [ ] niche:
-     - [ ] niche:
-     - [ ] niche:
-** TODO [0%] Determine MVP for the English teacher project
-   SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
-   - [ ] MVP:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Watch one video from week 2 of the consulting program before leaving for work
+   CLOSED: [2018-01-03 Wed 07:28] SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-03 Wed 06:42]--[2018-01-03 Wed 07:24] =>  0:42
+   CLOCK: [2018-01-03 Wed 04:42]--[2018-01-03 Wed 06:14] =>  1:32
+   :END:
+   - [X] video: Seeing for the first time
+** DONE [100%] Refine my niche
+   CLOSED: [2018-01-03 Wed 17:26] SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-03 Wed 17:09]--[2018-01-03 Wed 17:26] =>  0:17
+   :END:
+   - [X] [5/5] List 5 niches involving FLOSS, LISP (or similar) software development, etc
+     - [X] niche: small business owners that want to incorporate better - and free! - software into their business
+     - [X] niche: small business owners that want to automate some of their tedious, low(er)-risk, error-prone, and time-consuming work
+     - [X] niche: small business owners that want to learn how to use software more efficiently for their business
+     - [X] niche: small business owners that want to protect themselves / their business(es) against software vulnerabilities, malicious "hackers", etc
+     - [X] niche: software consultancies / freelancers that want to get more clients by having unique skills most don't have
+** DONE [100%] Determine MVP for the English teacher project
+   CLOSED: [2018-01-03 Wed 18:22] SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-03 Wed 17:33]--[2018-01-03 Wed 18:22] =>  0:49
+   :END:
+   - [X] MVP: play the question recording, display a record button, click the record button, record for max of 30 seconds, submit the recording
+     - end user goal: the students are able to focus on listening and recording their answers and not having to use multiple pieces of software for listening, recording, submitting, etc
+     - notes:
+       - to start with, limit answer length to 30 seconds
+       - what does "submit" mean?
+         - email teacher with a link to the recording (stored on google drive, aws, etc)
+         => store the recording(s) locally (i.e. hard drive, flash drive, etc)
+         - provide teacher portal for listening to the recordings
+* DONE Extras [100%]
+  CLOSED: [2018-01-03 Wed 20:43]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (0:50 hours)
+  - [X] 1 US Gallon of water (6 * 28 oz)
+  - [X] Night workout / stretch (0:26 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Completed all daily goals and other tasks before the kid's bedtime
+   - Came up with a few niches about which I'm actually excited
+   - The wife got groceries to fully complete yesterdays task
+   - Starting to move forward (again) on the English teacher project
 ** What didn't go well?
+   - Felt tired throughout a large part of the day
+   - Found out the wife and I are on a slightly different page regarding the meal plan
 ** What can I improve for tomorrow?
+   - Go to bed / turn off electronics earlier
+   - Explain more clearly what I meant with the meal plan and find out what she meant
 ** Notes, Thoughts, etc
+   - "If a man has not discovered something that he is willing to die for, then he isn't fit to live." -- Martin L. K. Jr
