@@ -1,4 +1,5 @@
-* Tasks
+* DONE Tasks
+  CLOSED: [2018-01-03 Wed 18:22]
 ** DONE [100%] Watch one video from week 2 of the consulting program before leaving for work
    CLOSED: [2018-01-03 Wed 07:28] SCHEDULED: <2018-01-02 Tue> DEADLINE: <2018-01-03 Wed>
    :LOGBOOK:
