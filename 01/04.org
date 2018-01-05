@@ -1,26 +1,50 @@
 * Tasks
-** TODO [0%] Watch one video from week 2 of the consulting program before leaving for work
-   SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
-   - [ ] video: Alchemy of self
-** TODO [0%] Complete the assignments from the week 2 video that was watched
-   SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
-   - [ ] assignment: Your dream life worksheet
-   - [ ] assignment: Current character worksheet
-   - [ ] assignment: New character worksheet
-   - [ ] assignment: Mythologizing yourself worksheet
-** TODO [0%] Create repository and initial stories (etc) to complete MVP for English teacher project
-   SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
-   - [ ] repository url:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Watch one video from week 2 of the consulting program before leaving for work
+   CLOSED: [2018-01-04 Thu 21:55] SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
+   :LOGBOOK:
+   CLOCK: [2018-01-04 Thu 20:44]--[2018-01-04 Thu 21:55] =>  1:11
+   CLOCK: [2018-01-04 Thu 19:35]--[2018-01-04 Thu 20:03] =>  0:28
+   CLOCK: [2018-01-04 Thu 07:35]--[2018-01-04 Thu 07:47] =>  0:12
+   CLOCK: [2018-01-04 Thu 05:36]--[2018-01-04 Thu 06:10] =>  0:34
+   :END:
+   - [X] video: Alchemy of self
+** DONE [100%] Complete the assignments from the week 2 video that was watched
+   CLOSED: [2018-01-04 Thu 22:07] SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
+   :LOGBOOK:
+   CLOCK: [2018-01-04 Thu 20:44]--[2018-01-04 Thu 22:07] =>  1:23
+   CLOCK: [2018-01-04 Thu 19:35]--[2018-01-04 Thu 20:03] =>  0:28
+   CLOCK: [2018-01-04 Thu 19:11]--[2018-01-04 Thu 19:29] =>  0:18
+   CLOCK: [2018-01-04 Thu 06:10]--[2018-01-04 Thu 06:26] =>  0:16
+   :END:
+   - [X] assignment: Current character worksheet
+   - [X] assignment: Your dream life worksheet
+   - [X] assignment: New character worksheet
+   - [X] assignment: Mythologizing yourself worksheet
+** DONE [100%] Create repository and initial stories (etc) to complete MVP for English teacher project
+   CLOSED: [2018-01-04 Thu 18:57] SCHEDULED: <2018-01-03 Wed> DEADLINE: <2018-01-04 Thu>
+   :LOGBOOK:
+   CLOCK: [2018-01-04 Thu 18:09]--[2018-01-04 Thu 18:57] =>  0:48
+   :END:
+   - [X] repository url: [[https://github.com/cvchaparro/les][Let's Engage Students!]]
+* DONE Extras [100%]
+  CLOSED: [2018-01-04 Thu 22:19]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (0:33 hours)
+  - [X] 1 US Gallon of water (6 * 28 oz)
+  - [X] Night workout / stretch (0:10 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Woke up tired but energized myself throughout the day
+   - Completed all tasks despite wanting to stop early due to how late it got
+   - Came up with a pretty good name for the English teacher project; also, generic enough to allow for growth
 ** What didn't go well?
+   - Took too long to finish everything
+   - I mis-estimated how time-consuming two of the tasks were going to be
 ** What can I improve for tomorrow?
+   - Start (and finish) everything earlier in the day by getting out of work earlier
+   - During planning time, quickly go through the videos and assignments to better estimate the time required for completion
 ** Notes, Thoughts, etc
+   - "There's no such thing as the unknown, only the temporarily hidden." -- Capt. James T. K.
