@@ -1,0 +1,28 @@
+* Tasks
+** TODO [0%] Refine and elaborate on the last two assignments from Thursday's consulting program video
+   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   - [ ] assignment: New character worksheet
+   - [ ] assignment: Mythologizing yourself worksheet
+** TODO [0%] Add Travis CI tool configuration to the repository for the English teacher project
+   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   - [ ] task: [[https://github.com/cvchaparro/les/issues/3][I want be able to use a CI tool to integrate and test my system]]
+** TODO [0%] Devote 2 hours of dedicated family time
+   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   - [ ] hour:
+   - [ ] hour:
+** TODO [0%] Watch the next video from the consulting program
+   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   - [ ] video: New paradigm & world view
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Set out clothes for tomorrow
+* Journal
+** What went well?
+** What didn't go well?
+** What can I improve for tomorrow?
+** Notes, Thoughts, etc
