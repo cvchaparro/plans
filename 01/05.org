@@ -1,26 +1,46 @@
-* Tasks
-** TODO [0%] Refine and elaborate on the first two assignments from yesterday's consulting program video
-   SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
-   - [ ] assignment: Current character worksheet
-   - [ ] assignment: Your dream life worksheet
-** TODO [0%] Investigate and choose a CI server / tool for the English teacher project
-   SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
-   - [ ] CI tool:
+* DONE Tasks
+  CLOSED: [2018-01-05 Fri 23:44]
+** DONE [100%] Refine and elaborate on the first two assignments from yesterday's consulting program video
+   CLOSED: [2018-01-05 Fri 23:44] SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
+   :LOGBOOK:
+   CLOCK: [2018-01-05 Fri 22:50]--[2018-01-05 Fri 23:43] =>  0:53
+   CLOCK: [2018-01-05 Fri 19:38]--[2018-01-05 Fri 21:48] =>  1:34
+   :END:
+   - [X] assignment: Current character worksheet
+   - [X] assignment: Your dream life worksheet
+** DONE [100%] Investigate and choose a CI server / tool for the English teacher project
+   CLOSED: [2018-01-05 Fri 18:56] SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
+   :LOGBOOK:
+   CLOCK: [2018-01-05 Fri 17:02]--[2018-01-05 Fri 18:12] =>  1:10
+   :END:
+   - [X] CI tool: Travis CI
    - see: [[https://github.com/cvchaparro/les/issues/3][I want be able to use a CI tool to integrate and test my system]]
-** TODO [0%] Devote two hours of dedicated family time
-   SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
-   - [ ] hour:
-   - [ ] hour:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Devote two hours of dedicated family time
+   CLOSED: [2018-01-05 Fri 23:29] SCHEDULED: <2018-01-04 Thu> DEADLINE: <2018-01-05 Fri>
+   :LOGBOOK:
+   CLOCK: [2018-01-05 Fri 21:55]--[2018-01-05 Fri 22:49] =>  0:54
+   CLOCK: [2018-01-05 Fri 18:21]--[2018-01-05 Fri 19:34] =>  1:13
+   :END:
+   - [X] hour: Watch an episode of Star Trek
+   - [X] hour: Chatting watching videos with the wife
+* DONE Extras [100%]
+  CLOSED: [2018-01-05 Fri 23:48]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (1:10 hours)
+  - [X] 1 US Gallon of water (6 * 28 oz)
+  - [X] Night workout / stretch (0:05 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Got it all done even though I was tired and didn't want to
+   - Got more perspective about what to do for my consulting business
 ** What didn't go well?
+   - Took way too long to get things done today
+   - Let myself get distracted before finishing my actual work
 ** What can I improve for tomorrow?
+   - Actually go through the improvements for the week and take action on them
+   - Drink more water as it seems like the more water I drink, the more alert I feel throughout the day
 ** Notes, Thoughts, etc
+   - "I won't stop until I win!" -- Les B.
