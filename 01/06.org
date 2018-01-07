@@ -1,28 +1,52 @@
-* Tasks
-** TODO [0%] Refine and elaborate on the last two assignments from Thursday's consulting program video
-   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
-   - [ ] assignment: New character worksheet
-   - [ ] assignment: Mythologizing yourself worksheet
-** TODO [0%] Add Travis CI tool configuration to the repository for the English teacher project
-   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/3][I want be able to use a CI tool to integrate and test my system]]
-** TODO [0%] Devote 2 hours of dedicated family time
-   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
-   - [ ] hour:
-   - [ ] hour:
-** TODO [0%] Watch the next video from the consulting program
-   SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
-   - [ ] video: New paradigm & world view
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-06 Sat 22:14]
+** DONE [100%] Refine and elaborate on the last two assignments from Thursday's consulting program video
+   CLOSED: [2018-01-06 Sat 15:45] SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-06 Sat 14:40]--[2018-01-06 Sat 15:45] =>  1:05
+   CLOCK: [2018-01-06 Sat 12:53]--[2018-01-06 Sat 13:24] =>  0:31
+   CLOCK: [2018-01-06 Sat 10:40]--[2018-01-06 Sat 12:23] =>  1:43
+   :END:
+   - [X] assignment: New character worksheet
+   - [X] assignment: Mythologizing yourself worksheet
+** DONE [100%] Add Travis CI tool configuration to the repository for the English teacher project
+   CLOSED: [2018-01-06 Sat 20:47] SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-06 Sat 19:06]--[2018-01-06 Sat 20:47] =>  1:41
+   CLOCK: [2018-01-06 Sat 15:45]--[2018-01-06 Sat 16:32] =>  0:47
+   :END:
+   - [X] task: [[https://github.com/cvchaparro/les/issues/3][I want be able to use a CI tool to integrate and test my system]]
+** DONE [100%] Devote 2 hours of dedicated family time
+   CLOSED: [2018-01-06 Sat 19:05] SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-06 Sat 17:17]--[2018-01-06 Sat 19:05] =>  1:48
+   CLOCK: [2018-01-06 Sat 16:32]--[2018-01-06 Sat 17:11] =>  0:39
+   :END:
+   - [X] hour: Star Trek movie
+** DONE [100%] Watch the next video from the consulting program
+   CLOSED: [2018-01-06 Sat 22:00] SCHEDULED: <2018-01-05 Fri> DEADLINE: <2018-01-06 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-06 Sat 20:59]--[2018-01-06 Sat 22:00] =>  1:01
+   :END:
+   - [X] video: New paradigm & world view
+* DONE Extras [100%]
+  CLOSED: [2018-01-06 Sat 21:52]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (0:27 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:12 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Stayed productive (for the most part) even being really tired throughout the day
+   - Got everything done
 ** What didn't go well?
+   - Lost temper with the kid
+   - Didn't sleep for very long
 ** What can I improve for tomorrow?
+   - Go to sleep sooner
+   - Do longer workout
 ** Notes, Thoughts, etc
+   - "If it's to be, it's up to me." -- Unknown
