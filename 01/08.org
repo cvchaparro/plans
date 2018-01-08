@@ -1,0 +1,27 @@
+* Tasks
+** TODO [0%] Add Contribution Guidelines, etc to the English teacher project
+   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   - [ ] [[https://github.com/cvchaparro/les/issues/5][I want to add contribution guidelines, PR and new issue templates, etc]]
+** TODO [0%] Watch the first two videos from week 3 of the consulting program
+   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   - [ ] video: Overview
+   - [ ] video: The illusion of sales
+** TODO [0%] Revise affirmations from Alchemy of Self workbook
+   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   - [ ] Affirmations revised
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - morning
+  - [ ] Set out clothes for tomorrow
+* Journal
+** What went well?
+** What didn't go well?
+** What can I improve for tomorrow?
+** Notes, Thoughts, etc
