@@ -1,29 +1,52 @@
-* Tasks
-** TODO [0%] Complete any remaining steps relating to the testing framework for the English teacher project
-   SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
-   - [ ] [[https://github.com/cvchaparro/les/issues/4][I want to be able to use a testing framework for my system]]
-** TODO [0%] Watch the next video from the consulting program and complete the assignment
-   SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
-   - [ ] video: Rolling god's loaded dice
-   - [ ] assignment: Alchemy Planner
-   - [ ] upload the assignments
-** TODO [0%] Devote two hours to dedicated family time
-   SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
-   - [ ] hour:
-   - [ ] hour:
-** TODO [0%] Read a chapter of the Emacs Lisp Intro book
-   SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
-   - [ ] chapter:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-07 Sun 21:55]
+** DONE [100%] Complete any remaining steps relating to the testing framework for the English teacher project
+   CLOSED: [2018-01-07 Sun 11:01] SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-07 Sun 09:36]--[2018-01-07 Sun 11:01] =>  1:25
+   :END:
+   - [X] [[https://github.com/cvchaparro/les/issues/4][I want to be able to use a testing framework for my system]]
+** DONE [100%] Watch the next video from the consulting program and complete the assignment
+   CLOSED: [2018-01-07 Sun 21:55] SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-07 Sun 19:40]--[2018-01-07 Sun 21:55] =>  2:15
+   CLOCK: [2018-01-07 Sun 11:23]--[2018-01-07 Sun 17:20] =>  5:57
+   CLOCK: [2018-01-07 Sun 04:58]--[2018-01-07 Sun 06:02] =>  1:04
+   :END:
+   - [X] video: Rolling god's loaded dice
+   - [X] assignment: Alchemy Planner
+   - [X] upload the assignments
+** DONE [100%] Devote two hours to dedicated family time
+   CLOSED: [2018-01-07 Sun 19:40] SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-07 Sun 17:21]--[2018-01-07 Sun 19:39] =>  2:18
+   :END:
+   - [X] hour: Star Trek: Into Darkness
+** DONE [100%] Read a chapter of the Emacs Lisp Intro book
+   CLOSED: [2018-01-07 Sun 09:22] SCHEDULED: <2018-01-06 Sat> DEADLINE: <2018-01-07 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-07 Sun 08:24]--[2018-01-07 Sun 09:22] =>  0:58
+   CLOCK: [2018-01-07 Sun 07:19]--[2018-01-07 Sun 08:24] =>  1:05
+   :END:
+   - [X] chapter: Writing Defuns (finish the last few sections)
+   - [X] chapter: Buffer Walk Through
+* DONE Extras [100%]
+  CLOSED: [2018-01-07 Sun 22:33]
+  - [X] Wake up at 4:30 am
+  - [X] Morning workout (0:21 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:10 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Finished everything again
+   - Completed the first version of my Alchemy of self workbook; will be getting it printed tomorrow
 ** What didn't go well?
+   - Less than ideal workout, partially because the gym wasn't open and I allowed myself to get lazy because of it
+   - Low patience with the kid
 ** What can I improve for tomorrow?
+   - Read through Alchemy of self workbook in the morning and at night
 ** Notes, Thoughts, etc
+   - "Don't wish it were easier, wish you were better." -- Jim R.
