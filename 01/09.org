@@ -1,0 +1,29 @@
+* Tasks
+** TODO [0%] Finish last couple items relating to contribution guidelines, etc for the English teacher project
+   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   - [ ] [[https://github.com/cvchaparro/les/issues/5#issuecomment-356165456][comment]] with what is yet to be done
+   - [ ] Fix formatting
+   - [ ] Add links to the README.md file
+** TODO [0%] Continue revising affirmations to be more relevant to me
+   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   - [ ] Affirmations revised
+** TODO [0%] Pick recording tool and start recording Alchemy workbook information
+   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   - [ ] tool:
+   - [ ] Start recording Alchemy of Self workbook information
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
+* Journal
+** What went well?
+** What didn't go well?
+** What can I improve for tomorrow?
+** Notes, Thoughts, etc
