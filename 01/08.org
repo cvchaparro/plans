@@ -1,27 +1,49 @@
-* Tasks
-** TODO [0%] Add Contribution Guidelines, etc to the English teacher project
-   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
-   - [ ] [[https://github.com/cvchaparro/les/issues/5][I want to add contribution guidelines, PR and new issue templates, etc]]
-** TODO [0%] Watch the first two videos from week 3 of the consulting program
-   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
-   - [ ] video: Overview
-   - [ ] video: The illusion of sales
-** TODO [0%] Revise affirmations from Alchemy of Self workbook
-   SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
-   - [ ] Affirmations revised
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - morning
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-08 Mon 21:22]
+** DONE [100%] Add Contribution Guidelines, etc to the English teacher project
+   CLOSED: [2018-01-08 Mon 20:54] SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-08 Mon 17:56]--[2018-01-08 Mon 20:54] =>  2:58
+   CLOCK: [2018-01-08 Mon 17:16]--[2018-01-08 Mon 17:45] =>  0:29
+   CLOCK: [2018-01-08 Mon 07:04]--[2018-01-08 Mon 07:18] =>  0:14
+   :END:
+   - [X] [[https://github.com/cvchaparro/les/issues/5][I want to add contribution guidelines, PR and new issue templates, etc]]
+   - [X] Issue template
+   - [X] Pull Request template
+   - [X] Contribution Guidelines
+   - [X] Code of Conduct
+** DONE [100%] Watch the first two videos from week 3 of the consulting program
+   CLOSED: [2018-01-08 Mon 06:52] SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-08 Mon 05:59]--[2018-01-08 Mon 06:52] =>  0:53
+   :END:
+   - [X] video: Overview
+   - [X] video: The illusion of sales
+** DONE [100%] Revise affirmations from Alchemy of Self workbook
+   CLOSED: [2018-01-08 Mon 21:21] SCHEDULED: <2018-01-07 Sun> DEADLINE: <2018-01-08 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-08 Mon 21:16]--[2018-01-08 Mon 21:21] =>  0:05
+   :END:
+   - [X] Affirmations revised
+* DONE Extras [100%]
+  CLOSED: [2018-01-08 Mon 21:40]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:16 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:10 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Got everything done
+   - Moving journaling over to Alchemy planner which has a much nicer format
 ** What didn't go well?
+   - Took too long to finish the GitHub stuff - I didn't realize how involved it would be...
 ** What can I improve for tomorrow?
+   - Assign myself slightly less work on weekdays
 ** Notes, Thoughts, etc
+   - "Patience is a virtue, and I'm learning patience. It's a tough lesson." -- Elon M.
