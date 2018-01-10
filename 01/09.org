@@ -1,29 +1,49 @@
-* Tasks
-** TODO [0%] Finish last couple items relating to contribution guidelines, etc for the English teacher project
-   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
-   - [ ] [[https://github.com/cvchaparro/les/issues/5#issuecomment-356165456][comment]] with what is yet to be done
-   - [ ] Fix formatting
-   - [ ] Add links to the README.md file
-** TODO [0%] Continue revising affirmations to be more relevant to me
-   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
-   - [ ] Affirmations revised
-** TODO [0%] Pick recording tool and start recording Alchemy workbook information
-   SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
-   - [ ] tool:
-   - [ ] Start recording Alchemy of Self workbook information
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-09 Tue 20:50]
+** DONE [100%] Finish last couple items relating to contribution guidelines, etc for the English teacher project
+   CLOSED: [2018-01-09 Tue 20:50] SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-09 Tue 20:30]--[2018-01-09 Tue 20:50] =>  0:20
+   :END:
+   - [X] [[https://github.com/cvchaparro/les/issues/5#issuecomment-356165456][comment]] with what is yet to be done
+   - [X] Fix formatting
+   - [X] Add links to the README.md file
+** DONE [100%] Continue revising affirmations to be more relevant to me
+   CLOSED: [2018-01-09 Tue 20:04] SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-09 Tue 19:54]--[2018-01-09 Tue 20:04] =>  0:10
+   :END:
+   - [X] Affirmations revised
+** DONE [100%] Pick recording tool and start recording Alchemy workbook information
+   CLOSED: [2018-01-09 Tue 19:52] SCHEDULED: <2018-01-08 Mon> DEADLINE: <2018-01-09 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-09 Tue 19:15]--[2018-01-09 Tue 19:52] =>  0:37
+   CLOCK: [2018-01-09 Tue 16:56]--[2018-01-09 Tue 17:36] =>  0:40
+   CLOCK: [2018-01-09 Tue 16:37]--[2018-01-09 Tue 16:56] =>  0:19
+   :END:
+   - [X] tool: Audacity
+   - [X] Start recording Alchemy of Self workbook information
+* DONE Extras [100%]
+  CLOSED: [2018-01-09 Tue 22:10]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (1:00 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:10 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
 * Journal
 ** What went well?
+   - Completed main tasks before 21:00
+   - Good morning workout
+   - Felt energized throughout most of the day
 ** What didn't go well?
+   - Got distracted with audio recording stuff for the journal
+   - Worked through dinner
 ** What can I improve for tomorrow?
+   - Pay attention to my family when it's family time; pay attention to work when it's work time
 ** Notes, Thoughts, etc
+   - "Live full; die empty." -- Les B.
