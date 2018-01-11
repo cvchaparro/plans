@@ -1,24 +1,37 @@
-* Tasks
-** TODO [0%] Find at least 3 resources on Common Lisp web development
-   SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
-   - [ ] resource:
-   - [ ] resource:
-   - [ ] resource:
-** TODO [0%] Listen to the audio of the next part of the consulting program
-   SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
-   - [ ] audio: Alchemy of conversion
-** TODO [0%] Work more on the Alchemy of Self journal
-   SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
-   - [ ] record a page
-   - [ ] revise a page of affirmations
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-10 Wed 20:12]
+** DONE [100%] Find at least 3 resources on Common Lisp web development
+   CLOSED: [2018-01-10 Wed 18:19] SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-10 Wed 18:03]--[2018-01-10 Wed 18:19] =>  0:16
+   :END:
+   - [X] resource: [[https://stackoverflow.com/questions/556456/is-it-feasible-to-do-serious-web-development-in-lisp#556618][Is it feasible to do (serious) web development in Lisp?]]
+   - [X] resource: [[http://www.adamtornhill.com/articles/lispweb.htm][Lisp for the Web]]
+   - [X] resource: [[https://github.com/CodyReichert/awesome-cl#network-and-internet][awesome-cl: Network and Internet]]
+   - [X] resource: [[http://paulgraham.com/index.html][Paul Graham]]
+** DONE [100%] Listen to the audio of the next part of the consulting program
+   CLOSED: [2018-01-10 Wed 20:12] SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-10 Wed 18:52]--[2018-01-10 Wed 20:12] =>  1:20
+   :END:
+   - [X] audio: Alchemy of conversion
+** DONE [100%] Work more on the Alchemy of Self journal
+   CLOSED: [2018-01-10 Wed 17:59] SCHEDULED: <2018-01-09 Tue> DEADLINE: <2018-01-10 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-10 Wed 17:01]--[2018-01-10 Wed 17:59] =>  0:58
+   CLOCK: [2018-01-10 Wed 05:04]--[2018-01-10 Wed 05:39] =>  0:35
+   :END:
+   - [X] record a page
+   - [X] revise a page of affirmations
+* DONE Extras [100%]
+  CLOSED: [2018-01-10 Wed 21:23]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:30 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:20 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
