@@ -1,0 +1,24 @@
+* Tasks
+** TODO [0%] Listen to the audio of the next part of the consulting program
+   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   - [ ] video: Crafting your script
+   - [ ] create my script
+** TODO [0%] Create a bare-minimum web application using resources found yesterday
+   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   - [ ] app:
+** TODO [0%] Record 3 pages of Alchemy workbook
+   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   - [ ] page:
+   - [ ] page:
+   - [ ] page:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
