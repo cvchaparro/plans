@@ -1,24 +1,35 @@
 * Tasks
-** TODO [0%] Listen to the audio of the next part of the consulting program
-   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
-   - [ ] video: Crafting your script
-   - [ ] create my script
-** TODO [0%] Create a bare-minimum web application using resources found yesterday
-   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
-   - [ ] app:
-** TODO [0%] Record 3 pages of Alchemy workbook
-   SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
-   - [ ] page:
-   - [ ] page:
-   - [ ] page:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Listen to the audio of the next part of the consulting program
+   CLOSED: [2018-01-11 Thu 23:25] SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-11 Thu 21:50]--[2018-01-11 Thu 23:25] =>  1:35
+   CLOCK: [2018-01-11 Thu 21:12]--[2018-01-11 Thu 21:50] =>  0:38
+   :END:
+   - [X] video: Crafting your script
+   - [X] create my script
+** DONE [100%] Create a bare-minimum web application using resources found yesterday
+   CLOSED: [2018-01-11 Thu 20:58] SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-11 Thu 17:47]--[2018-01-11 Thu 20:58] =>  3:11
+   :END:
+   - [X] app: [[https://github.com/cvchaparro/sample-cl-web-app][sample-cl-web-app]]
+** DONE [100%] Record 3 pages of Alchemy workbook
+   CLOSED: [2018-01-11 Thu 23:56] SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-11 Thu 23:31]--[2018-01-11 Thu 23:56] =>  0:25
+   :END:
+   - [X] page: 1
+   - [X] page: 2
+   - [X] page: 3
+* DONE Extras [100%]
+  CLOSED: [2018-01-11 Thu 23:58]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (1:00 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:20 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
