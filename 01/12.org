@@ -1,0 +1,25 @@
+* Tasks
+** TODO [0%] Come up with at least 3 more objections / responses for my script
+   SCHEDULED: <2018-01-11 Thu> DEADLINE: <2018-01-12 Fri>
+   - [ ] objection:
+   - [ ] objection:
+   - [ ] objection:
+** TODO [0%] Record 3 more pages of my Alchemy journal
+   SCHEDULED: <2018-01-11 Thu> DEADLINE: <2018-01-12 Fri>
+   - [ ] page:
+   - [ ] page:
+   - [ ] page:
+** TODO [0%] Create skeleton web application for the English teacher project
+   SCHEDULED: <2018-01-11 Thu> DEADLINE: <2018-01-12 Fri>
+   - [ ] app:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
