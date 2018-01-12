@@ -1,4 +1,5 @@
-* Tasks
+* DONE Tasks
+  CLOSED: [2018-01-11 Thu 23:56]
 ** DONE [100%] Listen to the audio of the next part of the consulting program
    CLOSED: [2018-01-11 Thu 23:25] SCHEDULED: <2018-01-10 Tue> DEADLINE: <2018-01-11 Wed>
    :LOGBOOK:
