@@ -1,0 +1,29 @@
+* Tasks
+** TODO [0%] Setup business email, etc
+   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   - [ ] business email
+   - [ ] domain name
+   - [ ] server
+** TODO [0%] Practice script with the wife at least 3 times
+   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   - [ ] practice: 1
+   - [ ] practice: 2
+   - [ ] practice: 3
+** TODO [0%] Find 2 resources on playing audio files from a Common Lisp application
+   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   - [ ] resource:
+   - [ ] resource:
+** TODO [0%] Devote at least one hour to dedicated family time
+   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   - [ ] hour:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
