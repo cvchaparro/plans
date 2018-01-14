@@ -1,29 +1,48 @@
-* Tasks
-** TODO [0%] Setup business email, etc
-   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
-   - [ ] business email
-   - [ ] domain name
-   - [ ] server
-** TODO [0%] Practice script with the wife at least 3 times
-   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
-   - [ ] practice: 1
-   - [ ] practice: 2
-   - [ ] practice: 3
-** TODO [0%] Find 2 resources on playing audio files from a Common Lisp application
-   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
-   - [ ] resource:
-   - [ ] resource:
-** TODO [0%] Devote at least one hour to dedicated family time
-   SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
-   - [ ] hour:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-13 Sat 22:31]
+** DONE [100%] Setup business email, etc
+   CLOSED: [2018-01-13 Sat 11:29] SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-13 Sat 09:26]--[2018-01-13 Sat 11:29] =>  2:03
+   :END:
+   - [X] business email
+   - [X] domain name
+** DONE [100%] Practice script with the wife at least 3 times
+   CLOSED: [2018-01-13 Sat 22:31] SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-13 Sat 20:35]--[2018-01-13 Sat 22:31] =>  1:56
+   :END:
+   - [X] practice: 1
+   - [X] practice: 2
+   - [X] practice: 3
+** DONE [100%] Find 2 resources on playing audio files from a Common Lisp application
+   CLOSED: [2018-01-13 Sat 07:48] SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-13 Sat 07:21]--[2018-01-13 Sat 07:48] =>  0:27
+   :END:
+   - [X] resource: [[https://github.com/filonenko-mikhail/cl-portaudio][cl-portaudio]] - [[http://portaudio.com/][PortAudio]] bindings for Common Lisp
+     - development seems active
+     - can record and play audio
+     - [[http://incudine.sourceforge.net/][Incudine]] Music/DSP programming environment for Common Lisp
+       - example of using PortAudio
+   - [X] resource: [[http://vintage-digital.com/hefner/software/mixalot/mixalot.html][Mixalot]] - for playing audio files
+     - pretty old...
+     - example: [[https://github.com/ks/audio-conv][audio-conv]] - example of using Mixalot (does not just play audio, though)
+** DONE [100%] Devote at least one hour to dedicated family time
+   CLOSED: [2018-01-13 Sat 18:59] SCHEDULED: <2018-01-12 Fri> DEADLINE: <2018-01-13 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-13 Sat 17:35]--[2018-01-13 Sat 18:58] =>  1:23
+   :END:
+   - [X] hour: Nine Lives
+* DONE Extras [100%]
+  CLOSED: [2018-01-13 Sat 23:10]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:37 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:05 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
