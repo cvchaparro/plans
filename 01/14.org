@@ -1,0 +1,25 @@
+* Tasks
+** TODO [0%] Revise script, print it out, and practice
+   SCHEDULED: <2018-01-13 Sat> DEADLINE: <2018-01-14 Sun>
+   - [ ] revise
+   - [ ] print
+   - [ ] practice
+** TODO [0%] Explore at least 2 common lisp web frameworks
+   SCHEDULED: <2018-01-13 Sat> DEADLINE: <2018-01-14 Sun>
+   - [ ] framework:
+   - [ ] framework:
+** TODO [0%] Work on job work for at least 2 hours
+   SCHEDULED: <2018-01-13 Sat> DEADLINE: <2018-01-14 Sun>
+   - [ ] hour:
+   - [ ] hour:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
