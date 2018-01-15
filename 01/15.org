@@ -1,0 +1,28 @@
+* Tasks
+** TODO [0%] Revise script, print it out, practice
+   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   - [ ] revise
+   - [ ] print
+   - [ ] practice
+** TODO [0%] Next video of consulting program
+   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   - [ ] Pendulum of doubt
+** TODO [0%] Build simple Caveman2 app
+   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   - [ ] the app should:
+     - [ ] ask the user for their name from the home page
+     - [ ] greet the user by name
+     - [ ] play an audio file
+     - [ ] bonus: record an audio file
+   - [ ] app:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
