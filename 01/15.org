@@ -1,28 +1,39 @@
-* Tasks
-** TODO [0%] Revise script, print it out, practice
-   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
-   - [ ] revise
-   - [ ] print
-   - [ ] practice
-** TODO [0%] Next video of consulting program
-   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
-   - [ ] Pendulum of doubt
-** TODO [0%] Build simple Caveman2 app
-   SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
-   - [ ] the app should:
-     - [ ] ask the user for their name from the home page
-     - [ ] greet the user by name
-     - [ ] play an audio file
-     - [ ] bonus: record an audio file
-   - [ ] app:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-15 Mon 23:20]
+** DONE [100%] Revise script, print it out, practice
+   CLOSED: [2018-01-15 Mon 23:20] SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-15 Mon 22:41]--[2018-01-15 Mon 23:20] =>  0:39
+   CLOCK: [2018-01-15 Mon 18:11]--[2018-01-15 Mon 19:18] =>  1:07
+   :END:
+   - [X] revise
+   - [X] print
+   - [X] practice
+** DONE [100%] Next video of consulting program
+   CLOSED: [2018-01-15 Mon 07:26] SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-15 Mon 07:06]--[2018-01-15 Mon 07:26] =>  0:20
+   :END:
+   - [X] Pendulum of doubt
+** DONE [100%] Build simple Caveman2 app
+   CLOSED: [2018-01-15 Mon 22:41] SCHEDULED: <2018-01-14 Sun> DEADLINE: <2018-01-15 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-15 Mon 19:29]--[2018-01-15 Mon 22:41] =>  3:12
+   :END:
+   - [X] the app should:
+     - [X] ask the user for their name from the home page
+     - [X] greet the user by name
+     - [X] play an audio file
+     - [X] bonus: record an audio file
+   - [X] app: [[https://github.com/cvchaparro/sample-cl-web-app/tree/record-audio][record-audio]] branch
+* TODO Extras [90%]
+  - [-] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:10 hours)
+  - [X] 1 US Gallon of water (6 * 28 oz)
+  - [X] Night workout / stretch (0:15 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
