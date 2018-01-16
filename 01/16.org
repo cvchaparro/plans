@@ -1,0 +1,23 @@
+* Tasks
+** TODO [0%] Practice script at least 2 times
+   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   - [ ] practice:
+   - [ ] practice:
+** TODO [0%] Watch next video in week 3 of the consulting program
+   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   - [ ] video: Igniting your flame
+** TODO [0%] Find at least 2 email automation tools
+   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   - [ ] tool:
+   - [ ] tool:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
