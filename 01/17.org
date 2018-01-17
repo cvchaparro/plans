@@ -1,0 +1,23 @@
+* Tasks
+** TODO [0%] Start building my list
+   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   - [ ] add 50 businesses with contact information
+** TODO [0%] Re-watch the the sales training video from the consulting program
+   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   - [ ] video: Alchemy of conversion
+** TODO [0%] Watch the first video from week 4 of the consulting program
+   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   - [ ] video: Overview
+   - [ ] video: Falling for the trap
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
