@@ -1,23 +1,37 @@
-* Tasks
-** TODO [0%] Practice script at least 2 times
-   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
-   - [ ] practice:
-   - [ ] practice:
-** TODO [0%] Watch next video in week 3 of the consulting program
-   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
-   - [ ] video: Igniting your flame
-** TODO [0%] Find at least 2 email automation tools
-   SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
-   - [ ] tool:
-   - [ ] tool:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-16 Tue 22:54]
+** DONE [100%] Practice script at least 2 times
+   CLOSED: [2018-01-16 Tue 22:54] SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-16 Tue 21:27]--[2018-01-16 Tue 22:54] =>  1:27
+   :END:
+   - [X] practice
+   - [X] practice
+** DONE [100%] Watch next video in week 3 of the consulting program
+   CLOSED: [2018-01-16 Tue 07:45] SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-16 Tue 06:40]--[2018-01-16 Tue 07:45] =>  1:05
+   :END:
+   - [X] video: Igniting your flame
+** DONE [100%] Find at least 2 email automation tools
+   CLOSED: [2018-01-16 Tue 19:51] SCHEDULED: <2018-01-15 Mon> DEADLINE: <2018-01-16 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-16 Tue 18:53]--[2018-01-16 Tue 19:51] =>  0:58
+   :END:
+   - [X] tool: [[https://mailchimp.com/][MailChimp]]
+     - offers free tools, too!
+   - [X] tool: [[https://www.infusionsoft.com][Infusionsoft]]
+     - offer APIs for developers -- need to investigate more
+   - [X] will also be looking into creating my own tools for this
+* DONE Extras [100%]
+  CLOSED: [2018-01-16 Tue 21:26]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:36 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Night workout / stretch (0:26 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
