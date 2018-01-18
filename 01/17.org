@@ -1,23 +1,36 @@
-* Tasks
-** TODO [0%] Start building my list
-   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
-   - [ ] add 50 businesses with contact information
-** TODO [0%] Re-watch the the sales training video from the consulting program
-   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
-   - [ ] video: Alchemy of conversion
-** TODO [0%] Watch the first video from week 4 of the consulting program
-   SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
-   - [ ] video: Overview
-   - [ ] video: Falling for the trap
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-17 Wed 20:34]
+** DONE [100%] Start building my list
+   CLOSED: [2018-01-17 Wed 20:34] SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-17 Wed 19:22]--[2018-01-17 Wed 20:34] =>  1:12
+   :END:
+   - [X] add 50 businesses with contact information
+** DONE [100%] Re-watch the the sales training video from the consulting program
+   CLOSED: [2018-01-17 Wed 19:21] SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-17 Wed 18:38]--[2018-01-17 Wed 19:21] =>  0:43
+   CLOCK: [2018-01-17 Wed 16:35]--[2018-01-17 Wed 17:25] =>  0:50
+   CLOCK: [2018-01-17 Wed 06:55]--[2018-01-17 Wed 07:18] =>  0:23
+   :END:
+   - [X] video: Alchemy of conversion
+** DONE [100%] Watch the first video from week 4 of the consulting program
+   CLOSED: [2018-01-17 Wed 06:55] SCHEDULED: <2018-01-16 Tue> DEADLINE: <2018-01-17 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-17 Wed 06:20]--[2018-01-17 Wed 06:55] =>  0:30
+   :END:
+   - [X] video: Overview
+   - [X] video: Falling for the trap
+* DONE Extras [100%]
+  CLOSED: [2018-01-17 Wed 21:46]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:43 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Practice script (1 times)
+  - [X] Night workout / stretch (0:24 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
