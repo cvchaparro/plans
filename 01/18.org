@@ -1,0 +1,22 @@
+* Tasks
+** TODO [0%] Keep building my list
+   SCHEDULED: <2018-01-17 Tue> DEADLINE: <2018-01-18 Wed>
+   - [ ] add 50 businesses with contact information
+** TODO [0%] Watch the second video from week 4 of the consulting program
+   SCHEDULED: <2018-01-17 Tue> DEADLINE: <2018-01-18 Wed>
+   - [ ] video: Alchemy of client attraction
+** TODO [0%] Figure out how to save recording locally for English teacher project
+   SCHEDULED: <2018-01-17 Tue> DEADLINE: <2018-01-18 Wed>
+   - [ ] I can save the recording as a local file
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
