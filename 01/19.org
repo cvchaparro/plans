@@ -1,0 +1,24 @@
+* Tasks
+** TODO [0%] Keep building my list
+   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   - [ ] add 50 businesses with contact information
+** TODO [0%] Watch the third video from week 4 of the consulting program
+   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   - [ ] video: Organic attraction methods
+** TODO [0%] Find 3 resources on how to automate email
+   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   - [ ] resourced:
+   - [ ] resourced:
+   - [ ] resourced:
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
