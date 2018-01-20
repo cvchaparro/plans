@@ -1,24 +1,35 @@
-* Tasks
-** TODO [0%] Keep building my list
-   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
-   - [ ] add 50 businesses with contact information
-** TODO [0%] Watch the third video from week 4 of the consulting program
-   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
-   - [ ] video: Organic attraction methods
-** TODO [0%] Find 3 resources on how to automate email
-   SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
-   - [ ] resourced:
-   - [ ] resourced:
-   - [ ] resourced:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-19 Fri 17:45]
+** DONE [100%] Keep building my list
+   CLOSED: [2018-01-19 Fri 08:10] SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-19 Fri 07:33]--[2018-01-19 Fri 08:10] =>  0:37
+   :END:
+   - [X] add 50 businesses with contact information
+** DONE [100%] Watch the third video from week 4 of the consulting program
+   CLOSED: [2018-01-19 Fri 07:33] SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-19 Fri 06:18]--[2018-01-19 Fri 07:33] =>  1:15
+   :END:
+   - [X] video: Organic attraction methods
+** DONE [100%] Find 3 resources on how to automate email
+   CLOSED: [2018-01-19 Fri 17:44] SCHEDULED: <2018-01-18 Tue> DEADLINE: <2018-01-19 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-19 Fri 17:21]--[2018-01-19 Fri 17:44] =>  0:23
+   CLOCK: [2018-01-19 Fri 08:10]--[2018-01-19 Fri 08:23] =>  0:13
+   :END:
+   - [X] resource: Custom Google Apps Scripts (for Gmail only, of course)
+   - [X] resource: Custom software (for other things)
+   - [X] resource: Mail Chimp (for mailing lists, etc); Hubspot (for marketing campaigns, etc); etc
+* TODO Extras [90%]
+  - [-] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:25 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Practice script (3 times)
+  - [X] Night workout / stretch (0:44 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
