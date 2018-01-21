@@ -1,32 +1,41 @@
 * Tasks
-** TODO [0%] Keep building my list
+** DONE [100%] Keep building my list
+   CLOSED: [2018-01-20 Sat 10:17] SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-20 Sat 09:13]--[2018-01-20 Sat 10:17] =>  1:04
+   :END:
+   - [X] add 50 businesses with contact information
+** DONE [100%] Watch the fourth video from week 4 of the consulting program
+   CLOSED: [2018-01-20 Sat 13:04] SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
+   :LOGBOOK:
+   CLOCK: [2018-01-20 Sat 12:15]--[2018-01-20 Sat 13:04] =>  0:49
+   :END:
+   - [X] video: Paid attraction methods
+** TODO [33%] Begin organic attraction campaign
    SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
-   - [ ] add 50 businesses with contact information
-** TODO [0%] Watch the fourth video from week 4 of the consulting program
-   SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
-   - [ ] video: Paid attraction methods
-** TODO [0%] Begin organic attraction campaign
-   SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
-   - [ ] update facebook
-   - [ ] first post
-   - [ ] set up mail stuff
-   - [ ] create first email
-   - [ ] pick first lumpy item
-   - [ ] come up with story for lumpy item (i.e. what is the significance of it?)
+   :LOGBOOK:
+   CLOCK: [2018-01-20 Sat 10:19]--[2018-01-20 Sat 12:15] =>  1:56
+   :END:
+   - [X] update facebook
+   - [X] first post
+   - [-] set up mail stuff
+   - [-] create first email
+   - [-] pick first lumpy item
+   - [-] come up with story for lumpy item (i.e. what is the significance of it?)
 ** TODO [0%] First version of emacs DMO commands (see the email about it)
    SCHEDULED: <2018-01-19 Fri> DEADLINE: <2018-01-20 Sat>
    - [ ] command: dmo-create-plan-for-today
    - [ ] command: dmo-create-plan-for-next-work-day
    - [ ] github url:
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* TODO Extras [9%]
+  - [-] Wake up at 4:30 am
+  - [-] Alchemy workbook - afternoon
+  - [-] Alchemy planner
+  - [-] Morning workout (X:XX hours)
+  - [-] 1 US Gallon of water (X * 28 oz)
+  - [-] Practice script (X times)
+  - [-] Night workout / stretch (X:XX hours)
+  - [X] Plan for tomorrow
+  - [-] Journal
+  - [-] Alchemy workbook - night
+  - [-] Set out clothes for tomorrow
