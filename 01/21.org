@@ -1,29 +1,32 @@
 * Tasks
-** TODO [0%] Begin organic attraction campaign
-   SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sat>
+** TODO [0%] Begin organic attraction campaign              :wont_do:day_off:
+   SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sun>
    - [ ] set up mail stuff
      - [ ] the wife's
      - [ ] mine
    - [ ] create first email
    - [ ] pick first lumpy item
    - [ ] come up with story for lumpy item (i.e. what is the significance of it?)
-** TODO [0%] First version of emacs DMO commands (see the email about it)
-   SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sat>
-   - [ ] command: dmo-create-plan-for-today
-   - [ ] command: dmo-create-plan-for-next-work-day
-   - [ ] github url:
-** TODO [0%] Watch the fifth video from week 4 of the consulting program
-   SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sat>
+** DONE [100%] First version of emacs DMO commands (see the email about it)
+   CLOSED: [2018-01-21 Sun 21:21] SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-21 Sun 20:08]--[2018-01-21 Sun 21:21] =>  1:13
+   :END:
+   - [X] command: dmo-create-plan-for-today
+   - [X] command: dmo-create-plan-for-next-work-day
+   - [X] github url: [[https://github.com/cvchaparro/emacs-dmo-mode][emacs-dmo-mode]]
+** TODO [0%] Watch the fifth video from week 4 of the consulting program :wont_do:day_off:
+   SCHEDULED: <2018-01-20 Sat> DEADLINE: <2018-01-21 Sun>
    - [ ] video: Assembling the war machine
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - afternoon
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* TODO Extras [81%]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [-] Morning workout (X:XX hours)
+  - [-] 1 US Gallon of water (2 * 28 oz)
+  - [X] Practice script (1 times)
+  - [X] Night workout / stretch (0:10 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
