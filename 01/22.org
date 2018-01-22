@@ -1,0 +1,28 @@
+* Tasks
+** TODO [0%] Watch the fifth video from week 4 of the consulting program
+   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   - [ ] video: Assembling the war machine
+** TODO [0%] Fix email setup and website
+   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   - [ ] email
+     - [ ] the wife's
+     - [ ] mine
+   - [ ] website
+     - [ ] the wife's
+     - [ ] mine
+** TODO [0%] Review niche, etc (i.e. all worksheets from week 1) and revise script
+   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   - [ ] worksheets
+   - [ ] revise script
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
