@@ -1,0 +1,24 @@
+* Tasks
+** TODO [0%] Watch the sixth video from week 4 of the consulting program
+   SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
+   - [ ] video: Planning your 30d attack
+** TODO [0%] Write blog posts for the site
+   SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
+   - [ ] blog post:
+   - [ ] blog post:
+   - [ ] blog post:
+** TODO [0%] Set up email
+   SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
+   - [ ] email is set up
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
