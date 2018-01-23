@@ -1,28 +1,37 @@
-* Tasks
-** TODO [0%] Watch the fifth video from week 4 of the consulting program
-   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
-   - [ ] video: Assembling the war machine
-** TODO [0%] Fix email setup and website
-   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
-   - [ ] email
-     - [ ] the wife's
-     - [ ] mine
-   - [ ] website
-     - [ ] the wife's
-     - [ ] mine
-** TODO [0%] Review niche, etc (i.e. all worksheets from week 1) and revise script
-   SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
-   - [ ] worksheets
-   - [ ] revise script
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-22 Mon 21:39]
+** DONE [100%] Watch the fifth video from week 4 of the consulting program
+   CLOSED: [2018-01-22 Mon 07:22] SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-22 Mon 06:29]--[2018-01-22 Mon 07:22] =>  0:53
+   :END:
+   - [X] video: Assembling the war machine
+** DONE [50%] Fix email setup and website
+   CLOSED: [2018-01-22 Mon 20:35] SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-22 Mon 18:58]--[2018-01-22 Mon 20:34] =>  1:36
+   CLOCK: [2018-01-22 Mon 07:23]--[2018-01-22 Mon 08:44] =>  1:21
+   :END:
+   - [-] email
+     - [-] the wife's (doing it tomorrow)
+     - [-] mine (doing it tomorrow)
+   - [X] website
+     - [X] the wife's (she's setting up her own)
+     - [X] mine
+** DONE [100%] Review niche, etc (i.e. all worksheets from week 1) and revise script
+   CLOSED: [2018-01-22 Mon 21:39] SCHEDULED: <2018-01-21 Sun> DEADLINE: <2018-01-22 Mon>
+   - [X] worksheets
+   - [X] revise script (doesn't need revision - yet, at least)
+* DONE Extras [100%]
+  CLOSED: [2018-01-22 Mon 21:56]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:40 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Practice script (1 times)
+  - [X] Night workout / stretch (0:13 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
