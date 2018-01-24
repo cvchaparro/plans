@@ -1,24 +1,32 @@
 * Tasks
-** TODO [0%] Watch the sixth video from week 4 of the consulting program
+** TODO [0%] Watch the sixth video from week 4 of the consulting program :postponed:
    SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-23 Tue 20:36]--[2018-01-23 Tue 21:15] =>  0:39
+   :END:
    - [ ] video: Planning your 30d attack
-** TODO [0%] Write blog posts for the site
-   SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
-   - [ ] blog post:
-   - [ ] blog post:
-   - [ ] blog post:
-** TODO [0%] Set up email
+** DONE [100%] Write blog posts for the site
+   CLOSED: [2018-01-23 Tue 20:36] SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-23 Tue 18:47]--[2018-01-23 Tue 20:36] =>  1:49
+   CLOCK: [2018-01-23 Tue 06:41]--[2018-01-23 Tue 06:57] =>  0:16
+   :END:
+   - [X] blog post: 3 Major pitfalls of not using automation in your business
+   - [X] blog post: (only one, for now)
+   - [X] blog post: (only one, for now)
+** TODO [0%] Set up email :postponed:
    SCHEDULED: <2018-01-22 Mon> DEADLINE: <2018-01-23 Tue>
    - [ ] email is set up
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Extras [100%]
+  CLOSED: [2018-01-23 Tue 22:34]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:41 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Practice script (1 times)
+  - [X] Night workout / stretch (0:28 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
