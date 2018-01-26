@@ -1,16 +1,16 @@
 * Tasks
-** TODO [0%] Finish watching the sixth video from week 4 of the consulting program
+** TODO [0%] Finish watching the sixth video from week 4 of the consulting program :unworked:recovering:
    SCHEDULED: <2018-01-24 Wed> DEADLINE: <2018-01-25 Thu>
    - [ ] video: Planning your 30d attack
-** TODO [0%] Write blog posts for the site
+** TODO [0%] Write blog posts for the site              :unworked:recovering:
    SCHEDULED: <2018-01-24 Wed> DEADLINE: <2018-01-25 Thu>
    - [ ] blog post: Automating your business - guidelines
 * TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [-] Wake up at 4:30 am
+  - [-] Alchemy workbook - morning
+  - [-] Alchemy planner
+  - [-] Morning workout (X:XX hours)
+  - [-] 1 US Gallon of water (2 * 28 oz)
   - [ ] Practice script (X times)
   - [ ] Night workout / stretch (X:XX hours)
   - [ ] Plan for tomorrow
