@@ -4,10 +4,12 @@
    - [ ] blog post: Automating your business - guidelines
    - [ ] blog post: Getting started with automating your business
 ** TODO [0%] Take notes from week 2 videos
+   SCHEDULED: <2018-01-25 Thu> DEADLINE: <2018-01-26 Fri>
    - [ ] video: Seeing for the first time
    - [ ] video: Alchemy of self
    - [ ] video: New paradigm & world view
 ** TODO [0%] Complete tasks for LES project
+   SCHEDULED: <2018-01-25 Thu> DEADLINE: <2018-01-26 Fri>
    - [ ] task: [[https://github.com/cvchaparro/les/issues/1][I want to be able to listen to a recording]]
    - [ ] task: [[https://github.com/cvchaparro/les/issues/2][I want to be able to record an answer]]
 * TODO Extras [0%]
