@@ -1,0 +1,22 @@
+* Tasks
+** TODO [0%] Job work
+   SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
+   - [ ] work on job work
+** TODO [0%] Take notes from week 2 videos
+   SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
+   - [ ] video: Seeing for the first time
+** TODO [0%] Complete a task for LES project
+   SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
+   - [ ] task: [[https://github.com/cvchaparro/les/issues/6][I want to evaluate whether I want to use Caveman2 as a web framework]]
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - afternoon
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
