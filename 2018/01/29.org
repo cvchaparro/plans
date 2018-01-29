@@ -1,0 +1,19 @@
+* Tasks
+** TODO [0%] Take notes from week 2 video
+   SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
+   - [ ] video: Seeing for the first time
+** TODO [0%] Complete a task for LES project
+   SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
+   - [ ] task: [[https://github.com/cvchaparro/les/issues/7][I want to set up code coverage reporting]]
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
