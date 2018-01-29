@@ -1,22 +1,29 @@
 * Tasks
-** TODO [0%] Job work
-   SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
-   - [ ] work on job work
-** TODO [0%] Take notes from week 2 videos
+** DONE [100%] Job work
+   CLOSED: [2018-01-28 Sun 20:22] SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-28 Sun 13:40]--[2018-01-28 Sun 20:22] =>  6:42
+   :END:
+   - [X] work on job work
+** TODO [0%] Take notes from week 2 videos                        :unstarted:
    SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
    - [ ] video: Seeing for the first time
-** TODO [0%] Complete a task for LES project
-   SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/6][I want to evaluate whether I want to use Caveman2 as a web framework]]
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - afternoon
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Complete a task for LES project
+   CLOSED: [2018-01-28 Sun 23:19] SCHEDULED: <2018-01-27 Sat> DEADLINE: <2018-01-28 Sun>
+   :LOGBOOK:
+   CLOCK: [2018-01-28 Sun 21:24]--[2018-01-28 Sun 23:19] =>  1:55
+   :END:
+   - [X] task: [[https://github.com/cvchaparro/les/issues/6][I want to evaluate whether I want to use Caveman2 as a web framework]]
+     - I didn't complete the task but I did make significant progress.
+* TODO Extras [18%]
+  - [-] Wake up at 4:30 am
+  - [-] Alchemy workbook - morning
+  - [-] Alchemy planner
+  - [-] Morning workout (X:XX hours)
+  - [-] 1 US Gallon of water (X * 28 oz)
+  - [-] Practice script (X times)
+  - [-] Night workout / stretch (X:XX hours)
+  - [X] Plan for tomorrow
+  - [-] Journal
+  - [-] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
