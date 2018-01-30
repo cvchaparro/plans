@@ -1,19 +1,28 @@
-* Tasks
-** TODO [0%] Take notes from week 2 video
-   SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
-   - [ ] video: Seeing for the first time
-** TODO [0%] Complete a task for LES project
-   SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/7][I want to set up code coverage reporting]]
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-29 Mon 22:05]
+** DONE [100%] Take notes from week 2 video
+   CLOSED: [2018-01-29 Mon 19:12] SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-29 Mon 18:57]--[2018-01-29 Mon 19:12] =>  0:15
+   CLOCK: [2018-01-29 Mon 07:17]--[2018-01-29 Mon 08:30] =>  1:13
+   :END:
+   - [X] video: Seeing for the first time
+** DONE [100%] Complete a task for LES project
+   CLOSED: [2018-01-29 Mon 22:04] SCHEDULED: <2018-01-28 Sun> DEADLINE: <2018-01-29 Mon>
+   :LOGBOOK:
+   CLOCK: [2018-01-29 Mon 19:13]--[2018-01-29 Mon 22:04] =>  2:51
+   :END:
+   - [X] task: [[https://github.com/cvchaparro/les/issues/7][I want to set up code coverage reporting]]
+* DONE Extras [100%]
+  CLOSED: [2018-01-29 Mon 22:25]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:58 hours)
+  - [X] 1 US Gallon of water (5 * 28 oz)
+  - [X] Practice script (1 times)
+  - [X] Night workout / stretch (0:15 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
