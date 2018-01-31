@@ -1,19 +1,26 @@
-* Tasks
-** TODO [0%] Take notes from week 2 video
-   SCHEDULED: <2018-01-29 Mon> DEADLINE: <2018-01-30 Tue>
-   - [ ] video: Alchemy of self
-** TODO [0%] Complete a task for the LES project
-   SCHEDULED: <2018-01-29 Mon> DEADLINE: <2018-01-30 Tue>
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/1][I want to be able to listen to a recording]]
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+* DONE Tasks
+  CLOSED: [2018-01-30 Tue 21:15]
+** DONE [100%] Take notes from week 2 video
+   CLOSED: [2018-01-30 Tue 07:25] SCHEDULED: <2018-01-29 Mon> DEADLINE: <2018-01-30 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-30 Tue 06:26]--[2018-01-30 Tue 07:25] =>  0:59
+   :END:
+   - [X] video: Alchemy of self
+** DONE [100%] Complete a task for the LES project
+   CLOSED: [2018-01-30 Tue 21:15] SCHEDULED: <2018-01-29 Mon> DEADLINE: <2018-01-30 Tue>
+   :LOGBOOK:
+   CLOCK: [2018-01-30 Tue 19:25]--[2018-01-30 Tue 21:15] =>  1:50
+   :END:
+   - [X] task: [[https://github.com/cvchaparro/les/issues/1][I want to be able to listen to a recording]]
+* TODO Extras [81%]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (0:51 hours)
+  - [-] 1 US Gallon of water (2 * 28 oz)
+  - [-] Practice script (0 times)
+  - [X] Night workout / stretch (0:12 hours)
+  - [X] Plan for tomorrow
+  - [X] Journal
+  - [X] Alchemy workbook - night
+  - [X] Set out clothes for tomorrow
