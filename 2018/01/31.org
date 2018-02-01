@@ -1,18 +1,22 @@
 * Tasks
-** TODO [0%] Complete task for LES project (alpha release due today)
-   SCHEDULED: <2018-01-30 Tue> DEADLINE: <2018-01-31 Wed>
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/2][I want to be able to record an answer]]
-   - [ ] task: [[https://github.com/cvchaparro/les/issues/6][I want to evaluate whether I want to use Caveman2 as a web framework]]
-   - [ ] provide link to mom for initial feedback
-* TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
-  - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
-  - [ ] Set out clothes for tomorrow
+** DONE [100%] Complete task for LES project (alpha release due today)
+   CLOSED: [2018-02-01 Thu 01:54] SCHEDULED: <2018-01-30 Tue> DEADLINE: <2018-01-31 Wed>
+   :LOGBOOK:
+   CLOCK: [2018-01-31 Wed 16:53]--[2018-02-01 Thu 01:54] =>  9:01
+   :END:
+   - [X] task: [[https://github.com/cvchaparro/les/issues/2][I want to be able to record an answer]]
+   - [X] task: [[https://github.com/cvchaparro/les/issues/6][I want to evaluate whether I want to use Caveman2 as a web framework]]
+     - It's good enough, for now. I'll have to see how much effort it will take to use cl-who, etc for generating HTML but other than that, everything else is pretty nice.
+   - [X] provide link to mom for initial feedback
+* TODO Extras [36%]
+  - [X] Wake up at 4:30 am
+  - [X] Alchemy workbook - morning
+  - [X] Alchemy planner
+  - [X] Morning workout (1:00 hours)
+  - [-] 1 US Gallon of water (3 * 28 oz)
+  - [-] Practice script (X times)
+  - [-] Night workout / stretch (X:XX hours)
+  - [-] Plan for tomorrow
+  - [-] Journal
+  - [-] Alchemy workbook - night
+  - [-] Set out clothes for tomorrow
