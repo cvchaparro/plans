@@ -1,18 +1,24 @@
 * Tasks
-** TODO [0%] Create stories for next steps with LES incorporating customer feedback
-   SCHEDULED: <2018-02-01 Thu> DEADLINE: <2018-02-02 Fri>
-   - [ ] stories were created based on customer feedback
-     - [ ] allow students to navigate through screens with different questions
-     - [ ] allow 3 questions to be answered
-     - [ ] investigate issue with customer's setup on Google Chrome
-   - [ ] stories were created to support development
-     - [ ] create deployment script
+** DONE [100%] Create stories for next steps with LES incorporating customer feedback
+   CLOSED: [2018-02-02 Fri 21:08] SCHEDULED: <2018-02-01 Thu> DEADLINE: <2018-02-02 Fri>
+   :LOGBOOK:
+   CLOCK: [2018-02-02 Fri 19:18]--[2018-02-02 Fri 21:08] =>  1:50
+   :END:
+   - [X] stories were created based on customer feedback
+     - [X] allow students to navigate through screens with different questions
+     - [X] allow 3 questions to be answered
+     - [X] investigate issue with customer's setup on Google Chrome
+   - [X] stories were created to support development
+     - [X] create deployment script
        - it would also be nice to have an idea for continuous deployment, for when we get to the stage of having a consistently running server
-     - [ ] add tests for caveman2 stuff
-     - [ ] use cl-who (for generating HTML)
-     - [ ] use parenscript (for generating JavaScript)
-** TODO [0%] Create script for setting up virtual servers with all "deployment" requirements
-   SCHEDULED: <2018-02-01 Thu> DEADLINE: <2018-02-02 Fri>
+     - [X] add tests for caveman2 stuff
+     - [X] use cl-who (for generating HTML)
+     - [X] use parenscript (for generating JavaScript)
+** DONE [50%] Create script for setting up virtual servers with all "deployment" requirements :started:
+   CLOSED: [2018-02-02 Fri 21:33] SCHEDULED: <2018-02-01 Thu> DEADLINE: <2018-02-02 Fri>
+   :LOGBOOK:
+   CLOCK: [2018-02-02 Fri 21:08]--[2018-02-02 Fri 21:34] =>  0:26
+   :END:
    - [ ] script is created (or, at least, started)
      - [ ] set up non-root user (with root access)
      - [ ] set up firewall
@@ -31,16 +37,16 @@
      - [ ] create self-signed SSL certificate for testing the site
      - [ ] create server start application
      - [ ] put needed applications in $HOME/bin
-   - [ ] link:
+   - [X] link: [[https://github.com/cvchaparro/setup-server][setup-server]]
 * TODO Extras [0%]
-  - [ ] Wake up at 4:30 am
-  - [ ] Alchemy workbook - morning
-  - [ ] Alchemy planner
-  - [ ] Morning workout (X:XX hours)
-  - [ ] 1 US Gallon of water (X * 28 oz)
-  - [ ] Practice script (X times)
-  - [ ] Night workout / stretch (X:XX hours)
+  - [-] Wake up at 4:30 am
+  - [-] Alchemy workbook - morning
+  - [-] Alchemy planner
+  - [-] Morning workout (X:XX hours)
+  - [-] 1 US Gallon of water (X * 28 oz)
+  - [-] Practice script (X times)
+  - [-] Night workout / stretch (X:XX hours)
   - [ ] Plan for tomorrow
-  - [ ] Journal
-  - [ ] Alchemy workbook - night
+  - [-] Journal
+  - [-] Alchemy workbook - night
   - [ ] Set out clothes for tomorrow
