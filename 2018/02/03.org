@@ -1,0 +1,22 @@
+* Tasks
+** TODO [0%] Update deployment script
+   SCHEDULED: <2018-02-02 Fri> DEADLINE: <2018-02-03 Sat>
+   - [ ] set up non-root user (with root access)
+   - [ ] set up firewall
+     - [ ] enable necessary ports
+     - [ ] enable firewall
+   - [ ] install updates
+** TODO [0%] Personal time
+   - [ ] Personal time
+* TODO Extras [0%]
+  - [ ] Wake up at 4:30 am
+  - [ ] Alchemy workbook - morning
+  - [ ] Alchemy planner
+  - [ ] Morning workout (X:XX hours)
+  - [ ] 1 US Gallon of water (X * 28 oz)
+  - [ ] Practice script (X times)
+  - [ ] Night workout / stretch (X:XX hours)
+  - [ ] Plan for tomorrow
+  - [ ] Journal
+  - [ ] Alchemy workbook - night
+  - [ ] Set out clothes for tomorrow
